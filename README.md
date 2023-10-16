@@ -20,7 +20,7 @@
 
 📄 More about my professional life on my CV []
 
-🌱 Fun Fact:
+🌱 Fun Fact: NASA’s internet speed is 91 GB per second
 
 ### The technologies I use
 
